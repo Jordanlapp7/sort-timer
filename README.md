@@ -17,6 +17,7 @@ Follow these steps to set up the project on your local machine:
 Clone the Repository:
 
 Clone this repository to your machine using git clone.
+
 Install Matplotlib:
 
 If you haven't installed Matplotlib, you can do so by running pip install matplotlib.
