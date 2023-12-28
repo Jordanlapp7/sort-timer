@@ -1,5 +1,5 @@
 # Author: Jordan Lapp
-# GitHub username: JordanLapp
+# GitHub username: JordanLapp7
 # Date: 8/5/2023
 # Description: Graphs the sorting times of two sorting algorithms on different list lengths.
 
